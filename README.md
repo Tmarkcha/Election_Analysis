@@ -17,20 +17,20 @@ The following items were used to assist with the completion of this project:
 After conducting the analysis if the election, the following statements can be concluded:
 - There were 369,711 votes cast in this election.
 - The vote turnout for the counties are as follows:
--- The county of Jefferson tallied 38,855 (10.5% of the total vote count) votes.
--- The county of Denver tallied 306,055 (73.8% of the total vote count) votes.
--- The county of Arapahoe tallied 24,801 (6.7% of the total vote count) votes.
+  - The county of Jefferson tallied 38,855 (10.5% of the total vote count) votes.
+  - The county of Denver tallied 306,055 (73.8% of the total vote count) votes.
+  - The county of Arapahoe tallied 24,801 (6.7% of the total vote count) votes.
 - The county with the highest number of votes was Denver with 306,055 votes.
 - The candidates were: 
--- Charles Casper Stockham
--- Diana DeGette
--- Raymon Anthony Doane
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The results for each candidate are as follows:
--- Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
--- Diana DeGette received 73.8% of the vote and 272,892 number of votes.
--- Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of this year’s election was:
--- Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+  - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
  
 ## Election-Audit Summary
 To the election commission, the script utilized to run the analysis of this year’s election can be applied to any other type of election. Whether it be for elections for public office, elections for who won that year’s best ribs, or any other type of election. It is not just limited to the elections for who represents the residents of the counties. 
