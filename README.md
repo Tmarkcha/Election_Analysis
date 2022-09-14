@@ -11,8 +11,8 @@ From this dataset, the following criteria are required to be identified and anal
 5.	Determine the winner of the election based on popular vote.
 ## Resources
 The following items were used to assist with the completion of this project:
-•	Data Source: election_results.csv
-•	Software: Python 3.6.1, Visual Studio Code 1.38.1
+- Data Source: election_results.csv
+- Software: Python 3.6.1, Visual Studio Code 1.38.1
 ## Election-Audit Results
 After conducting the analysis if the election, the following statements can be concluded:
 •	There were 369,711 votes cast in this election.
