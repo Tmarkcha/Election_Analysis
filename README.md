@@ -34,5 +34,7 @@ After conducting the analysis if the election, the following statements can be c
  
 ## Election-Audit Summary
 To the election commission, the script utilized to run the analysis of this year’s election can be applied to any other type of election. Whether it be for elections for public office, elections for who won that year’s best ribs, or any other type of election. It is not just limited to the elections for who represents the residents of the counties. 
+
 One way of modifying the script to appease the conditions of the required election is to change the variable names, as to identify the different components of the code in a much easier and organized manner. Rather than have “winning_county”, one may have “winning_ribs”, for example. The benefit of having legible code allows for any future analyzers to swiftly interpret the contents of the script and be able to make modifications as they see fit. Thankfully, some of the variables, such as “winning_candidate”, can be applied broadly and do not require much changing.
+
 Another way to alter the script would be to be able to implement the results from the .txt file into a Graphics User Interface (GUI), so that the results appear in a nicer, and more professional, page. The knowledge to do so eludes me at this current moment, but as this is merely a suggestion, it could be implemented at a later date, and to then build upon the script to make it even better than it currently is.
